@@ -1,0 +1,501 @@
+resume_id,resume_text,category
+1,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+2,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+3,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+4,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+5,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+6,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+7,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+8,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+9,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+10,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+11,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+12,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+13,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+14,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+15,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+16,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+17,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+18,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+19,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+20,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+21,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+22,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+23,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+24,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+25,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+26,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+27,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+28,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+29,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+30,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+31,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+32,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+33,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+34,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+35,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+36,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+37,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+38,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+39,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+40,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+41,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+42,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+43,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+44,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+45,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+46,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+47,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+48,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+49,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+50,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+51,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+52,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+53,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+54,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+55,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+56,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+57,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+58,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+59,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+60,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+61,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+62,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+63,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+64,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+65,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+66,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+67,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+68,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+69,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+70,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+71,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+72,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+73,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+74,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+75,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+76,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+77,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+78,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+79,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+80,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+81,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+82,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+83,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+84,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+85,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+86,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+87,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+88,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+89,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+90,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+91,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+92,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+93,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+94,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+95,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+96,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+97,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+98,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+99,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+100,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+101,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+102,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+103,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+104,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+105,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+106,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+107,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+108,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+109,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+110,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+111,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+112,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+113,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+114,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+115,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+116,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+117,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+118,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+119,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+120,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+121,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+122,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+123,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+124,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+125,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+126,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+127,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+128,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+129,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+130,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+131,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+132,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+133,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+134,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+135,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+136,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+137,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+138,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+139,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+140,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+141,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+142,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+143,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+144,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+145,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+146,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+147,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+148,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+149,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+150,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+151,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+152,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+153,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+154,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+155,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+156,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+157,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+158,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+159,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+160,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+161,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+162,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+163,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+164,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+165,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+166,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+167,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+168,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+169,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+170,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+171,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+172,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+173,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+174,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+175,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+176,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+177,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+178,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+179,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+180,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+181,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+182,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+183,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+184,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+185,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+186,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+187,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+188,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+189,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+190,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+191,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+192,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+193,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+194,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+195,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+196,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+197,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+198,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+199,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+200,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+201,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+202,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+203,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+204,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+205,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+206,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+207,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+208,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+209,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+210,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+211,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+212,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+213,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+214,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+215,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+216,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+217,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+218,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+219,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+220,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+221,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+222,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+223,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+224,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+225,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+226,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+227,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+228,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+229,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+230,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+231,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+232,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+233,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+234,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+235,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+236,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+237,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+238,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+239,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+240,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+241,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+242,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+243,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+244,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+245,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+246,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+247,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+248,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+249,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+250,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+251,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+252,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+253,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+254,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+255,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+256,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+257,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+258,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+259,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+260,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+261,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+262,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+263,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+264,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+265,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+266,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+267,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+268,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+269,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+270,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+271,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+272,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+273,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+274,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+275,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+276,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+277,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+278,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+279,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+280,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+281,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+282,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+283,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+284,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+285,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+286,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+287,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+288,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+289,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+290,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+291,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+292,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+293,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+294,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+295,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+296,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+297,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+298,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+299,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+300,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+301,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+302,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+303,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+304,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+305,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+306,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+307,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+308,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+309,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+310,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+311,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+312,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+313,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+314,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+315,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+316,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+317,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+318,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+319,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+320,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+321,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+322,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+323,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+324,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+325,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+326,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+327,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+328,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+329,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+330,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+331,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+332,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+333,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+334,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+335,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+336,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+337,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+338,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+339,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+340,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+341,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+342,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+343,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+344,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+345,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+346,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+347,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+348,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+349,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+350,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+351,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+352,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+353,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+354,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+355,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+356,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+357,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+358,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+359,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+360,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+361,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+362,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+363,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+364,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+365,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+366,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+367,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+368,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+369,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+370,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+371,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+372,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+373,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+374,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+375,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+376,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+377,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+378,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+379,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+380,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+381,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+382,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+383,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+384,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+385,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+386,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+387,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+388,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+389,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+390,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+391,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+392,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+393,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+394,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+395,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+396,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+397,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+398,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+399,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+400,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+401,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+402,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+403,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+404,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+405,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+406,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+407,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+408,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+409,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+410,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+411,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+412,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+413,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+414,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+415,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+416,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+417,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+418,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+419,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+420,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+421,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+422,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+423,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+424,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+425,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+426,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+427,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+428,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+429,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+430,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+431,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+432,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+433,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+434,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+435,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+436,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+437,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+438,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+439,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+440,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+441,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+442,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+443,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+444,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+445,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+446,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+447,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+448,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+449,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+450,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+451,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+452,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+453,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+454,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+455,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+456,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+457,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+458,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+459,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+460,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+461,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+462,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+463,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+464,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+465,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+466,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+467,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+468,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+469,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+470,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+471,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+472,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+473,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+474,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+475,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+476,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+477,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+478,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+479,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+480,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+481,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+482,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+483,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+484,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+485,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+486,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+487,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+488,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
+489,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+490,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+491,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+492,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+493,"Candidate has skills relevant to DevOps, completed projects and certifications.",DevOps
+494,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+495,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+496,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+497,"Candidate has skills relevant to Web Development, completed projects and certifications.",Web Development
+498,"Candidate has skills relevant to Testing, completed projects and certifications.",Testing
+499,"Candidate has skills relevant to Java Developer, completed projects and certifications.",Java Developer
+500,"Candidate has skills relevant to Data Science, completed projects and certifications.",Data Science
